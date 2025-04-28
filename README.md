@@ -18,8 +18,8 @@ Almost of assets in the [marketplace.](https://www.roblox.com/catalog "The offic
 **Note:** Extracting only the character from a character pack is **not supported.**
 
 ## Install guide
-1. Download the plug-in file. (Ro-ader.lua)
-2. Open the plug-in folder. (In Roblox Studio, go to the “Plugins” tab, click “Manage Plugins”, and select “Open Plugins Folder”.)
-* If you didn't changed path, path must be ``C:\Users\<YourUsername>\AppData\Local\Roblox\Plugins``
-3. Move the plug-in file into the plug-in folder.
-4. Restart the Roblox Studio and checkout the plugins tab.
+1. Download the plugin file. (Ro-ader.lua)
+2. Open the plugin folder. (In Roblox Studio, go to the “Plugins” tab, click “Manage Plugins”, and select “Open Plugins Folder”.)
+* Use this way if you don't know how to open the plugin folder in the Roblox Studio even you seen this guide. – unless you didn't changed the path when install Roblox Studio, plugin folder is placing at ``C:\Users\<YourUsername>\AppData\Local\Roblox\Plugins`` .
+3. Move the plugin file into the plugin folder.
+4. Restart the Roblox Studio and check the plugins tab.
